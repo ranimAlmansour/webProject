@@ -1,0 +1,82 @@
+/*Start About Me*/
+.about-me{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #8f8f8f;
+    background-color: #dfebe4;
+}
+
+.about-me b{
+    color:#3ec77f;
+}
+
+.about-me p{
+    line-height: 30px;
+}
+
+.about-me hr{
+    margin-bottom: 0;
+}
+/*End About Me*/
+
+/*Start Hoppy*/
+.hobby{
+    background-color: #f6fffa;
+    color: #8f8f8f;
+}
+
+.hobby h4{
+    text-align: center;
+    color: #526261;
+    padding-top: 30px;
+}
+
+.hobby hr{
+    margin-right: 30%;
+    margin-left: 30%;
+    width: 40%;
+    margin-top: 10px;
+}
+
+.hobby p{
+    text-align: center;
+    padding-top: 100px;
+    line-height: 40px;
+}
+
+.hobby p a{
+    text-decoration: none;
+    color:#6c63ff;
+}
+
+.hobby img{
+    width: 100%;
+}
+
+
+/*End Hoppy*/
+
+/*Start Gallrey*/
+
+.gallery{
+    background-color: #dfebe4;
+    padding: 20px 0;
+}
+
+.gallery h5{
+    text-align: center;
+    color: #526261;
+}
+
+.gallery hr{
+    margin-right: 30%;
+    margin-left: 30%;
+    width: 40%;
+    margin-top: 10px;
+}
+
+.gallery img{
+    width: 100%;
+    margin-top: 15px;
+}
