@@ -1,0 +1,59 @@
+/*Start Slider*/
+    .carousel .carousel-item img{
+        width: 100% !important;
+        height: 100% !important;
+    }
+/*End Slider*/
+
+/*Start Country*/
+    .sehrim{
+        background-color:#f6fffa ;
+        padding: 40px 0;
+    }
+
+    .sehrim .intro{
+        padding-right: 30px;
+    }
+
+    .sehrim .intro h3{
+        color: #3ec77f;
+        padding: 10px 0;
+    }
+
+    .sehrim .intro p{
+        line-height: 30px;
+        color: #8f8f8f;
+    }
+
+    .sehrim h6{
+        text-align: center;
+        color: #526261;
+    }
+
+    .sehrim hr{
+        width: 50%;
+        margin:10px 25% 30px 25%;
+    }
+/*End Country*/
+
+/*Start Places*/
+    .places{
+        background-color:#dfebe4;
+        padding-top: 25px;
+        padding-bottom: 10px;
+    }
+
+    .places h3{
+        text-align: center;
+        color: #526261;
+    }
+
+    .card{
+        margin: 10px 100px;
+    }
+
+    .card .card-text{
+        color: #526261;
+        text-align: center;
+    }
+/*End Places*/
